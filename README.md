@@ -1,2 +1,5 @@
-# Gyre-Eleven-Shader
-A Unity shader for assets inspired by Halo Infinite
+# Gyre Shaders
+
+"Gyre" shaders for Unity
+
+### Gyre Eleven - A Unity shader for assets inspired by Halo Infinite
