@@ -9,6 +9,8 @@
 * Helper for automatic DDS texture importing (control, mask, and normal textures)
 * Supports materials without wear masks (Mask_1)
 
+![GyreEleven_WIP](https://user-images.githubusercontent.com/17507902/163761854-b767c21f-0233-4e58-9586-121ae01d0f6d.png)
+
 This repository is licensed under the MIT License.
 
 A quick disclaimer:
